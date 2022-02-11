@@ -6,12 +6,12 @@ Software Engineering Project
 * G Srija 	: AM.EN.U4CSE19365
 * K Nitin Kumar	: AM.EN.U4CSE19329
 
-### Instrcutor Aid System
+## Instrcutor Aid System
 
 Python Project for to help instrcutors to keep track of every class and reports and other functionalities of students
 
 
-# Languages and Tools
+## Languages and Tools
 
 * Python
 * Database
