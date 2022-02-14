@@ -14,7 +14,7 @@ Python Project for to help instrcutors to keep track of every class and reports 
 ## Languages and Tools
 
 * Python
-* Database
+* SQLite3
 * Tkinter
 * Draw.io
 * Spyder/VS Code
