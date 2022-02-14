@@ -2,10 +2,10 @@
 
 | TASK        | WHO           | STATUS  | EXPECTED DATE
 | ------------- |:-------------:| -----:|:------------:|
-| ER diagram      | Nitin, Harthik | Completed | 13th feb |
-| Use Case diagram      | Charan, Srija      | Completed |  13th feb |
-| User Stories | Harthik, Srija      | Completed    |  13th feb |
-| Meeting Minutes | Charan, Nitin      | Completed    |  13th feb |
+| ER diagram      | Nitin, Harthik | Completed | 12-Feb-2022 |
+| Use Case diagram      | Charan, Srija      | Completed |  13-Feb-2022 |
+| User Stories | Harthik, Srija      | Completed    |  13-Feb-2022 |
+| Meeting Minutes | Charan, Nitin      | Completed    |  14-Feb-2022 |
 
 
 
