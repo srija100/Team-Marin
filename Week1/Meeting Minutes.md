@@ -8,9 +8,9 @@
 Making a Draft ER Diagram
 
 ## Points We Discussed and Implemented 
-Listed out the number of  Databases  and the Tables
-Pointed out Entities and Attributes from Each Table
-We used Diagram tool called Draw.io for drawing the Draft ER Diagram
+* Listed out the number of  Databases  and the Tables
+* Pointed out Entities and Attributes from Each Table
+* We used Diagram tool called Draw.io for drawing the Draft ER Diagram
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
