@@ -1,4 +1,4 @@
-User Stories :
+**User Stories**:
 
 * In the Home page the instructor should be able to create an account/sign in
 * In the Home page he can view the subject Projection and Percentage calculator.
