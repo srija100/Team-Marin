@@ -1,5 +1,5 @@
 # Meeting Minutes:
-## 1st Meeting
+# 1st Meeting
 * Held on 12th  February 2022 at 22:00 
 * Duration - 90 minutes  
 * Platform - Microsoft Teams
@@ -27,7 +27,10 @@ No guest were invited
 Completed
 
 
-## 2nd Meeting
+
+
+
+# 2nd Meeting
 Held on 13th  February 2022 at 22:00
 Duration - 120 minutes  
 Mode - Microsoft Teams
