@@ -31,9 +31,9 @@ Completed
 
 
 # 2nd Meeting
-Held on 13th  February 2022 at 22:00
-Duration - 120 minutes  
-Mode - Microsoft Teams
+* Held on 13th  February 2022 at 22:00
+* Duration - 120 minutes  
+* Mode - Microsoft Teams
 
 ## Meeting Agenda 
 To complete Use Case Diagram and User stories
