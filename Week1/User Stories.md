@@ -8,4 +8,4 @@
 * Instructors can add student marks manually or upload CSV files.
 * Instructor can download the marksheet.
 * Instructor can check the students reports and project the scores graphically.
-* Upon clicking Class performance Instructors can check Individual Subject marks and * Project Scores graphically.
+* Upon clicking Class performance Instructors can check Individual Subject marks and Project Scores graphically.
