@@ -56,3 +56,31 @@ No guest were invited
 
 ## Status of the Agenda
 Completed
+
+
+
+# 3rd Meeting
+* Held on 2nd March 2022 at 14:30 
+* Duration - 90 minutes  
+* Mode - Classroom Offline mode
+
+## Meeting Agenda 
+To modify the Class Diagram and to make some changes.
+
+
+## Points Discussed and Implemented 
+* Based on the suggestions and inputs given we modified the class diagram
+
+## Members present
+* B.Charan Sai           - AM.EN.U4CSE19314
+* Kosgi Nitin Kumar   - AM.EN.U4CSE19329
+* Garine Srija             - AM.EN.U4CSE19365
+* Satya Harthik  S      - AM.EN.U4CSE19352
+
+## Members Absent - None
+
+## In Attendance
+No guest were invited
+
+## Status of the Agenda
+Completed
