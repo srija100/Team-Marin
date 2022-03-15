@@ -80,7 +80,7 @@ To modify the Class Diagram and to make some changes.
 ## Members Absent - None
 
 ## In Attendance
-Dr.Sreekumar Sir and Anjali mam
+Dr.Sreekumar Sir and Anjali Mam
 
 ## Status of the Agenda
 Completed
