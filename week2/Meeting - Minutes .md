@@ -76,6 +76,7 @@ To modify the Class Diagram and to make some changes.
 * Kosgi Nitin Kumar   - AM.EN.U4CSE19329
 * Garine Srija             - AM.EN.U4CSE19365
 * Satya Harthik  S      - AM.EN.U4CSE19352
+* Nanditha Menon        - AM.EN.U4CSE19337
 
 ## Members Absent - None
 
