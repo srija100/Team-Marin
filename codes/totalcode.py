@@ -23,7 +23,7 @@ class Homepage:
             if flag==0:
                 return messagebox.showerror('Error','Email/Password is Incorrect')
             else:
-                accwindow()
+                messagebox.showinfo('Result','Sign In Successfully')
                 sign.destroy()
         def account():#newaccount
             sign.destroy()
