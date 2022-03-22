@@ -5,11 +5,9 @@
 * Platform - Microsoft Teams
 
 ## Meeting Agenda 
-Building the structure of the Class Diagram.
+Building the Sign in page using python.
 
 ## Points Discussed and Implemented 
-* Discussed and listed the classes.
-* Noted all the attributes and methods for each class.
 
 
 ## Members present
@@ -37,12 +35,11 @@ Completed
 * Mode - Microsoft Teams
 
 ## Meeting Agenda 
-To complete the Class Diagram in XMI format.
+To complete the Subject Projection page.
 
 
 ## Points Discussed and Implemented 
-* We used Diagram tool called Draw.io for drawing the Draft Class Diagram
-* Discussed all the relations from class to class.
+
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
@@ -67,11 +64,10 @@ Completed
 * Mode - Microsoft Teams
 
 ## Meeting Agenda 
-To modify the Class Diagram and to make some changes.
-
+To build Marks Calculator functionality in Homepage and make necessary changes.
 
 ## Points Discussed and Implemented 
-* Based on the suggestions and inputs given we modified the class diagram
+
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
