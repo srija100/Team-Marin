@@ -25,7 +25,7 @@ class Homepage:
             if flag==0:
                 return messagebox.showerror('Error','Email/Password is Incorrect')
             else:
-                accwindow()
+                messagebox.showinfo('Result','Registered Successfully')
                 sign.destroy()
         def account():#newaccount
             sign.destroy()
@@ -47,7 +47,7 @@ class Homepage:
                     data_tuple = (email,passw,name)
                     nc.execute(sqlite_insert_with_param, data_tuple)
                     conn.commit()
-                    messagebox.showinfo('Result','Registered Successfully')
+                    messagebox.showinfo('Result','Sign In Successfully')
             n=StringVar()
             e=StringVar()
             p=StringVar()
