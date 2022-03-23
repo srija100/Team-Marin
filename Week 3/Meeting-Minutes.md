@@ -39,7 +39,8 @@ Completed
 Building the Sign in page using python.
 
 ## Points Discussed and Implemented 
-
+Creating Home page
+Building the Sign in page using python.
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
@@ -71,6 +72,7 @@ To complete the Subject Projection page.
 
 ## Points Discussed and Implemented 
 
+Completed the Subject Projection page.
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
@@ -98,7 +100,7 @@ Completed
 To build Marks Calculator functionality in Homepage and make necessary changes.
 
 ## Points Discussed and Implemented 
-
+Built Marks Calculator functionality in Homepage and make necessary changes.
 
 ## Members present
 * B.Charan Sai           - AM.EN.U4CSE19314
