@@ -47,7 +47,7 @@ class Homepage:
                     data_tuple = (email,passw,name)
                     nc.execute(sqlite_insert_with_param, data_tuple)
                     conn.commit()
-                    messagebox.showinfo('Result','Sign In Successfully')
+                    messagebox.showinfo('Result','Registered Successfully')
             n=StringVar()
             e=StringVar()
             p=StringVar()
@@ -175,7 +175,3 @@ Button(home,text='SignIn/Create Account',font='Verdana 12 bold',command=Homepage
 Button(home,text='Subject Projection',font='Verdana 12 bold',command=Homepage.SubjectProjection.subpro,bg='#567',fg='White').place(relx=.5, rely=.5,anchor= CENTER)
 Button(home,text='Percentage calculator',font='Verdana 12 bold',command=Homepage.Calculator.calculator,bg='#567',fg='White').place(relx=.5, rely=.6,anchor= CENTER)
 home.mainloop()
-        
-        
-        
-    
