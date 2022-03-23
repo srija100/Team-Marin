@@ -19,7 +19,6 @@ class Homepage:
             if flag==0:
                 return messagebox.showerror('Error','Email/Password is Incorrect')
             else:
-                accwindow()
                 sign.destroy()
         def account():#newaccount
             sign.destroy()
