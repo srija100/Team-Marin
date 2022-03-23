@@ -2,7 +2,7 @@
 | ------------- |:-------------:| -----:|:------------:| ------------:|
 | Sign in / Create Account     | Nitin, Harthik | 16-Mar-2022 | 21-Mar-2022 | Completed |
 | Subject Projection     | Charan, Srija      | 16-Mar-2022 |  21-Mar-2022 | Completed |
-| Calculator | Nandita, Srija      | 16-Mar-2022 |  21-Mar-2022 | Completed |
+| Calculator | Charan, Srija      | 16-Mar-2022 |  21-Mar-2022 | Completed |
 | Sign In Form | Charan, Nitin      | 16-Mar-2022 |  21-Mar-2022 | Completed |
 | Sign In Error Page     | Charan, Nandita      | 16-Mar-2022 |  21-Mar-2022 | Completed |
 | Proceed 1(Sign In) | Nitin, Srija      | 16-Mar-2022 |  21-Mar-2022 | Completed |
