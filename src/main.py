@@ -6,7 +6,7 @@ import sqlite3
 from sqlite3 import Error
 from tkinter import messagebox
 import matplotlib.pyplot as plt
-conn = sqlite3.connect("main.db")#main database conn.
+conn = sqlite3.connect("resources/main.db")#main database conn.
 cursor=conn.cursor()
 
 
@@ -302,7 +302,7 @@ home=Tk()
 home['bg'] = 'yellow'
 home.geometry('1080x720')
 home.title('Instructor Aid System')
-img=Image.open('IAS3.jpg')
+img=Image.open('resources/IAS3.jpg')
 img = ImageTk.PhotoImage(img, master=home)
 Label(home,image=img).pack()
 Label(home,text='---HOME PAGE---',font='Verdana 15 bold',bg='#673',fg='White').place(relx=.5,anchor= N)
